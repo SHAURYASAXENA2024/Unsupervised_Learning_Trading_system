@@ -1,10 +1,6 @@
 # Unsupervised_Learning_Trading_system
 
-# ============================================================
-
 # PROJECT 1: Unsupervised Learning Trading Strategy
-
-# ============================================================
 
 # Steps
 
@@ -31,6 +27,4 @@
 # pandas, numpy, matplotlib, statsmodels, pandas_datareader
 
 # datetime, yfinance, sklearn, PyPortfolioOpt, pandas_ta
-
-# ============================================================
 
